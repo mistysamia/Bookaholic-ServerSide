@@ -228,7 +228,7 @@ app.get('/', (req, res) => {
     res.send('HanDCraft ');
 });
 app.get('/handCraft', (req, res) => {
-    res.send('hanDCraft start is running by MISTY');
+    res.send('Misty    MISTY');
 });
 
 app.listen(port, () => {
